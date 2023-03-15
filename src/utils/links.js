@@ -15,23 +15,11 @@ export const menuLinks = [
     link: '#'
   },
   {
-    title: 'Услуги',
-    link: '#'
-  },
-  {
-    title: 'Виджеты',
-    link: '#'
-  },
-  {
-    title: 'Интеграции',
-    link: '#'
-  },
-  {
-    title: 'Наши клиенты',
-    link: '#'
-  },
-  {
     title: 'Кейсы',
+    link: '#'
+  },
+  {
+    title: 'Услуги',
     link: '#'
   },
   {
@@ -39,7 +27,15 @@ export const menuLinks = [
     link: '#'
   },
   {
+    title: 'Виджеты',
+    link: '#'
+  },
+  {
     title: 'Сертификаты',
+    link: '#'
+  },
+  {
+    title: 'Интеграции',
     link: '#'
   },
   {
@@ -47,7 +43,11 @@ export const menuLinks = [
     link: '#'
   },
   {
-    title: 'Вопрос-ответ',
+    title: 'Наши клиенты',
     link: '#'
   },
+  {
+    title: 'Вопрос / ответ',
+    link: '#'
+  }
 ]
