@@ -1,0 +1,46 @@
+.contacts {
+  display: flex;
+  align-items: center;
+  gap: 45px;
+
+  &__phone {
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: inherit;
+    text-decoration: none;
+    transition: opacity .2s linear;
+
+    &:hover {
+      opacity: .7;
+    }
+
+    &:active {
+      opacity: .4;
+    }
+  }
+
+  &__social {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  &__social-item {
+    transition: all .2s linear;
+
+    &:hover {
+      transform: scale(1.15);
+      opacity: .7;
+    }
+
+    &:active {
+      opacity: .4;
+    }
+  }
+}
