@@ -39,7 +39,7 @@ export const menuLinks = [
     link: '#'
   },
   {
-    title: 'Блог на YouTube',
+    title: 'Блог на Youtube',
     link: '#'
   },
   {
