@@ -47,7 +47,7 @@ export const menuLinks = [
     link: '#'
   },
   {
-    title: 'Вопрос / ответ',
+    title: 'Вопрос / Ответ',
     link: '#'
   }
 ]
