@@ -6,7 +6,7 @@ function Main() {
       <section className="info" aria-label="Информация о продукте">
         <div className="info__heading">
           <h1 className="info__heading-title">Зарабатывайте больше 
-            <span class="gradient fw_900"> c&nbsp;<span class="uppercase">Welbex</span></span>
+            <span className="gradient fw_900"> c&nbsp;<span className="uppercase">Welbex</span></span>
           </h1>
           <p className="info__heading-subtitle">Развиваем и&nbsp;контролируем продажи за&nbsp;вас</p>
         </div>

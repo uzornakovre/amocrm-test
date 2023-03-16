@@ -3,7 +3,7 @@ import MenuItem from './MenuItem';
 
 function Menu({ title, items, classModificator }) {
   const menuItems = items.map(item => (
-      <li class="menu__list-item"
+      <li className="menu__list-item"
           key={items.indexOf(item)}>
         <MenuItem title={item.title}
                   link={item.link}
