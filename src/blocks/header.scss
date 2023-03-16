@@ -14,6 +14,8 @@
   &__logo-wrapper {
     margin-top: 30px;
     max-width: 165px;
+    color: inherit;
+    text-decoration: none;
   }
 
   &__subtitle {
@@ -42,5 +44,14 @@
     line-height: 19px;
     color: inherit;
     text-decoration: none;
+    transition: all .2s linear;
+
+    &:hover {
+      color: #c5f712;
+    }
+
+    &:active {
+      color: #88ab08;
+    }
   }
 }

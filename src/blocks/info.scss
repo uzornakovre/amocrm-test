@@ -102,5 +102,16 @@
     font-size: 16px;
     line-height: 19px;
     border: none;
+    transition: all .2s linear;
+
+    &:hover {
+      cursor: pointer;
+      background-color: #004bfb;
+    }
+
+    &:active {
+      cursor: pointer;
+      background-color: #4c94d3;
+    }
   }
 }
