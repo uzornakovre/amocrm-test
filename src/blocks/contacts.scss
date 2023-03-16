@@ -2,9 +2,18 @@
   display: flex;
   align-items: center;
   gap: 45px;
-  font-family: 'Inter';
   font-size: 16px;
   line-height: 19px;
+
+  @media screen and (max-width: 1199px) {
+    gap: 16px;
+  }
+
+  &_place_header {
+    @media screen and (max-width: 599px) {
+      display: none;
+    }
+  }
 
   &_place_footer {
     flex-direction: column;
@@ -34,6 +43,10 @@
 
     &:active {
       opacity: .4;
+    }
+
+    @media screen and (max-width: 1023px) {
+      display: none;
     }
   }
 
