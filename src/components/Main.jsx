@@ -59,6 +59,7 @@ function Main() {
       <div className="content__decoration-3"></div>
       <div className="content__decoration-4"></div>
       <div className="content__decoration-5"></div>
+      <div className="content__decoration-6"></div>
     </main>
   )
 }
