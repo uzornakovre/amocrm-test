@@ -84,11 +84,13 @@
 
   &__menu-list {
     display: flex;
+    max-width: 500px;
     gap: 30px;
     padding: 0;
     margin: 0;
     list-style: none;
     justify-self: flex-start;
+    flex-wrap: wrap;
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
@@ -98,7 +100,7 @@
     }
 
     @media screen and (max-width: 767px) {
-      width: 100%;
+      max-width: 100%;
       gap: 0;
       justify-content: space-between;
       position: relative;

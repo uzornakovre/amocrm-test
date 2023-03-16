@@ -149,8 +149,8 @@
 
   &__get-consult {
     width: 262px;
-    height: 61px;
-    padding: 0;
+    min-height: 61px;
+    padding: 10px 0;
     margin-top: 60px;
     background-color: #4077F3;
     color: inherit;

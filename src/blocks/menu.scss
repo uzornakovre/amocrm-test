@@ -50,6 +50,7 @@
 
   &__list-item {
     min-width: 100px;
+    max-width: 250px;
   }
 
   @media screen and (max-width: 767px) {
