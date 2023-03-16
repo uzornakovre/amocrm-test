@@ -22,7 +22,7 @@
   &__heading-subtitle {
     max-width: 300px;
     margin: 0;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
@@ -48,7 +48,6 @@
   }
 
   &__gifts-title {
-    font-family: 'Inter';
     font-weight: 500;
     font-size: 18px;
     line-height: 22px;
@@ -74,7 +73,6 @@
   &__gift-title {
     margin: 0;
     margin-bottom: 6px;
-    font-family: 'Inter';
     font-weight: 500;
     font-size: 18px;
     line-height: 22px;
@@ -84,7 +82,7 @@
 
   &__gift-subtitle {
     margin: 0;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
@@ -97,7 +95,6 @@
     margin-top: 60px;
     background-color: #4077F3;
     color: inherit;
-    font-family: 'Inter';
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
