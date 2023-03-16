@@ -10,10 +10,10 @@ function Header() {
   return (
     <header className="header">
       <div className="header__content">
-        <div className="header__logo-wrapper">
+        <a className="header__logo-wrapper" href="#">
           {welbexLogo}
           <p className="header__subtitle">крупный интегратор CRM в&nbsp;Росcии и ещё 8 странах</p>
-        </div>
+        </a>
         <nav className="header__menu">
           <ul className="header__menu-list">
             <li className="header__menu-list-item">
