@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c099f93.css",
+    "main.js": "/static/js/main.eba75d9a.js",
+    "static/js/787.b9911b79.chunk.js": "/static/js/787.b9911b79.chunk.js",
+    "static/media/Inter-Bold.woff": "/static/media/Inter-Bold.93c1301bd9f486c573b3.woff",
+    "static/media/Inter-Medium.woff": "/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Montserrat-Regular.woff": "/static/media/Montserrat-Regular.3db65dc4b858f0fed4fb.woff",
+    "static/media/Montserrat-SemiBold.woff": "/static/media/Montserrat-SemiBold.197213592de7a2a62e06.woff",
+    "static/media/Montserrat-Light.woff": "/static/media/Montserrat-Light.be142e6c3747b7b87e60.woff",
+    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Bold.woff2": "/static/media/Inter-Bold.ec64ea577b0349e055ad.woff2",
+    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/Montserrat-Regular.woff2": "/static/media/Montserrat-Regular.8b56391ed36ea95337c6.woff2",
+    "static/media/Montserrat-SemiBold.woff2": "/static/media/Montserrat-SemiBold.1d679c8257a6a9caa9bd.woff2",
+    "static/media/Montserrat-Light.woff2": "/static/media/Montserrat-Light.cf7b6a954e570df2f420.woff2",
+    "index.html": "/index.html",
+    "main.0c099f93.css.map": "/static/css/main.0c099f93.css.map",
+    "main.eba75d9a.js.map": "/static/js/main.eba75d9a.js.map",
+    "787.b9911b79.chunk.js.map": "/static/js/787.b9911b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c099f93.css",
+    "static/js/main.eba75d9a.js"
+  ]
+}
