@@ -2,7 +2,6 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 
 import React from 'react';
-// import headerLogo from '../images/logo_welbex.svg';
 import { welbexLogo } from '../images/svg';
 import Contacts from './Contacts';
 
