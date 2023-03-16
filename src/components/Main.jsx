@@ -54,6 +54,11 @@ function Main() {
           </ul>
         </div>
       </section>
+      <div className="content__decoration-1"></div>
+      <div className="content__decoration-2"></div>
+      <div className="content__decoration-3"></div>
+      <div className="content__decoration-4"></div>
+      <div className="content__decoration-5"></div>
     </main>
   )
 }
