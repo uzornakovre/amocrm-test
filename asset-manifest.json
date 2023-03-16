@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/amocrm-test/static/css/main.43297013.css",
+    "main.css": "/amocrm-test/static/css/main.9811434c.css",
     "main.js": "/amocrm-test/static/js/main.8c8d5013.js",
     "static/js/787.b9911b79.chunk.js": "/amocrm-test/static/js/787.b9911b79.chunk.js",
     "static/media/Inter-Bold.woff": "/amocrm-test/static/media/Inter-Bold.93c1301bd9f486c573b3.woff",
@@ -18,12 +18,12 @@
     "static/media/Montserrat-SemiBold.woff2": "/amocrm-test/static/media/Montserrat-SemiBold.1d679c8257a6a9caa9bd.woff2",
     "static/media/Montserrat-Light.woff2": "/amocrm-test/static/media/Montserrat-Light.cf7b6a954e570df2f420.woff2",
     "index.html": "/amocrm-test/index.html",
-    "main.43297013.css.map": "/amocrm-test/static/css/main.43297013.css.map",
+    "main.9811434c.css.map": "/amocrm-test/static/css/main.9811434c.css.map",
     "main.8c8d5013.js.map": "/amocrm-test/static/js/main.8c8d5013.js.map",
     "787.b9911b79.chunk.js.map": "/amocrm-test/static/js/787.b9911b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43297013.css",
+    "static/css/main.9811434c.css",
     "static/js/main.8c8d5013.js"
   ]
 }
